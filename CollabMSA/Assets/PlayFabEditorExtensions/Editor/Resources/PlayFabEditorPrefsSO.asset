@@ -20,9 +20,5 @@ MonoBehaviour:
   EdExPath: 
   LocalCloudScriptPath: 
   PanelIsShown: 0
-<<<<<<< HEAD
-  curMainMenuIdx: 1
-=======
   curMainMenuIdx: 0
->>>>>>> 3be4b11a8dc61437016d5e20c70346f8bd93f76d
   curSubMenuIdx: 0
