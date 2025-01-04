@@ -1474,8 +1474,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c13d37f911dfcb6448ff72058ae197eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  AppId: 
-  VoiceAppId: 
+  AppId: 830cac31-f565-49cb-a7ad-83aa98f1a044
+  VoiceAppId: 3e38a159-5d01-49d7-8c59-9b93cc4645b0
   Region: 
   Head: {fileID: 430285556200696031}
   LeftHand: {fileID: 430285558060488827}
